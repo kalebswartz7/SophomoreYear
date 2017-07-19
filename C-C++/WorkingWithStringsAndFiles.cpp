@@ -1,9 +1,3 @@
-/*
- * File:   lab5.cpp
- * Author: swartzkr
- *
- * Created on February 22, 2017, 10:02 AM
- */
 
 #include <cstdlib>
 #include <iostream>
