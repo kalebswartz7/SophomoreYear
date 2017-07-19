@@ -1,9 +1,3 @@
-/*
- * File:   HW2.c
- * Author: kalebswartz
- *
- * Created on February 12, 2017, 2:53 PM
- */
 
 #include <stdio.h>
 #include <stdlib.h>
