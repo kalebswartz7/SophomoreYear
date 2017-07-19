@@ -1,0 +1,4 @@
+INVALID VOTING RECORD on line 2 in /Users/kalebswartz/Downloads/VotingData/data.csv
+INVALID VOTING RECORD on line 3 in /Users/kalebswartz/Downloads/VotingData/data.csv
+INVALID VOTING RECORD on line 4 in /Users/kalebswartz/Downloads/VotingData/data.csv
+ILLEGAL VOTING DATA for county: Allen
